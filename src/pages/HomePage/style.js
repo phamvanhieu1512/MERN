@@ -8,3 +8,11 @@ export const WrapperTypeProduct = styled.div`
   border-bottom: 1px solid red;
   height: 44px;
 `;
+
+export const WrapperProducts = styled.div`
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+`;
