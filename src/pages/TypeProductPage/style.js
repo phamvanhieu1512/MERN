@@ -8,7 +8,7 @@ export const WrapperProducts = styled(Col)`
   flex-wrap: wrap;
 `;
 
-export const WrapperNavbar = styled(Col)`
+export const WrapperNavbar = styled.div`
   background-color: #fff;
   margin-right: 10px;
   padding: 10px;
